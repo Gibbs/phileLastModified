@@ -33,7 +33,7 @@ composer require "gibbs/phile-last-modified:1.*"
 **Install via git**
 
 Clone this repository from the ```phile``` directory into 
-```plugins/gibbs/lastModified```. E.g:
+```plugins/gibbs/phileLastModified```. E.g:
 
 ```bash
 git clone git@github.com:Gibbs/phileLastModified.git plugins/gibbs/phileLastModified
